@@ -3,14 +3,8 @@
 #   1. Required Version Terraform
 #   2. Required Terraform Providers
 #   3. Terraform Remote State Storage with Azure Storage Account (last step of this section)
-#   4. https://registry.terraform.io/providers/hashicorp/azuread/latest/docs
 # 2. Terraform Provider Block for AzureRM
-#    https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs
 # 3. Terraform Resource Block: Define a Random Pet Resource
-#    https://registry.terraform.io/providers/hashicorp/random/3.5.1
-#    https://registry.terraform.io/providers/hashicorp/random/latest/docs
-
-#    https://developer.hashicorp.com/terraform/tutorials/azure-get-started
 
 # 1. Terraform Settings Block
 terraform {
